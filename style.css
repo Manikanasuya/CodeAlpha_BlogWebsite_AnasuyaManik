@@ -1,0 +1,23 @@
+.container {
+    width: 960px;
+    margin: 0 auto;
+  }
+  
+  .posts {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .post {
+    width: 400px;
+    margin: 0 10px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
